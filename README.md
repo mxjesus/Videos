@@ -28,15 +28,6 @@ Vídeo
 
 ## Servicio social
 
-### Práctica 11 - Mecanismos de Seguridad, Certificados Digitales | Administración de Redes
-
-En este vídeo, se habla sobre los diversos tipos de certificados, así como su importancia dentro de los esquemas de seguridad en las redes, utilizando la herramienta OpenSSL. 
-
-Vídeo
-
-- https://drive.google.com/file/d/1tYsyLepE2mgk8pyqdL5jIh13x46E-rYX/view?usp=sharing
-
-
 ### Práctica 5 - Administración con SNMP en Windows | Administración de Redes 
 
 En este vídeo, se analizó y exploró el significado y utilidad de los diferentes objetos de la MIB-II, consultado los valores a un agente SNMP con ayuda del software MG-SOFT MIB Browser. 
@@ -47,6 +38,13 @@ Vídeo
 
 - https://drive.google.com/file/d/1_J4XMAsH60lBG1KmRDA8tBzGNKKTkFSH/view?usp=sharing
 
+### Práctica 11 - Mecanismos de Seguridad, Certificados Digitales | Administración de Redes
+
+En este vídeo, se habla sobre los diversos tipos de certificados, así como su importancia dentro de los esquemas de seguridad en las redes, utilizando la herramienta OpenSSL. 
+
+Vídeo
+
+- https://drive.google.com/file/d/1tYsyLepE2mgk8pyqdL5jIh13x46E-rYX/view?usp=sharing
 
 ### Práctica 7 - Configuración básica del router | Redes de Datos Seguras
 
